@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
 /**
-* @brief Prints odd or even numbers from 0 to N.
+* @brief Print odd or even numbers from 0 to N.
 * @param [in] N - integer number till which the printing is proceeding
 * @param [in] isOdd - use 0 (false) for even values, and true (1) for odd
 **/
